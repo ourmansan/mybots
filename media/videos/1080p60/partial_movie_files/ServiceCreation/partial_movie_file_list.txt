@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/ServiceCreation/3977891868_3334763081_223132457.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/ServiceCreation/2852726489_2569161387_3042828969.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/ServiceCreation/2852726489_121394258_1138545753.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/ServiceCreation/2852726489_2569161387_1849343040.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/ServiceCreation/2852726489_3534585747_3522031918.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/ServiceCreation/2852726489_2919340033_2485842457.mp4'

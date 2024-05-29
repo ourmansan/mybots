@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/3977891868_3931657374_223132457.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_2919340033_3918487054.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_223591169_3352203383.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_2919340033_138735686.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_608740198_2404614948.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_2919340033_394965732.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_957476808_259358222.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/UserInitiatesDeployment/2852726489_784179552_799276815.mp4'

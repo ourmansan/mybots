@@ -1,0 +1,29 @@
+2024-05-22 12:00:31,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/getMe "HTTP/1.1 404 Not Found"
+2024-05-22 12:01:47,281 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:01:47,296 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:01:47,297 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:01:47,591 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"
+2024-05-22 12:06:33,633 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:06:33,646 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:06:33,647 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:06:33,952 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"
+2024-05-22 12:12:29,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:12:29,518 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:12:29,520 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:12:29,764 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"
+2024-05-22 12:16:36,211 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:16:36,223 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:16:36,224 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:16:36,396 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"
+2024-05-22 12:19:42,418 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:19:42,430 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:19:42,432 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:19:42,615 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"
+2024-05-22 12:48:47,810 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:48:47,824 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:48:47,826 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:48:48,138 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"
+2024-05-22 12:54:39,263 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/getMe "HTTP/1.1 200 OK"
+2024-05-22 12:54:39,267 - apscheduler.scheduler - INFO - Scheduler started
+2024-05-22 12:54:39,269 - telegram.ext.Application - INFO - Application started
+2024-05-22 12:54:39,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot6709242892:AAE96KVSuKfw3ZiCLcCfZgmfSeEmoCbEQyQ/deleteWebhook "HTTP/1.1 200 OK"

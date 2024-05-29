@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/3977891868_3767190359_223132457.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2670734648_345498484.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2569161387_2345855192.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2807168646_2668805309.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2569161387_379533164.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_3173185039_4075661098.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2569161387_1756702948.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_3923254635_2277000503.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2945215626_1766378043.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_1943612193_2370698355.mp4'
+file 'file:/home/adminisrator/Documents/telegrambot/media/videos/1080p60/partial_movie_files/SchedulingPods/2852726489_2919340033_3094298485.mp4'
